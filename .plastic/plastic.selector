@@ -1,0 +1,4 @@
+repository "Main_2D_Sokoban_14-4-26 2026-04-14_14-55-49/Main_2D_Sokoban_14-4-26@5773694457788@cloud"
+  path "/"
+    br "/main"
+    co "/main"
